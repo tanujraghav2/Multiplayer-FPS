@@ -1,0 +1,2 @@
+html-pkg.tar.xz filter=lfs diff=lfs merge=lfs -text
+linux-pkg.tar.xz filter=lfs diff=lfs merge=lfs -text
