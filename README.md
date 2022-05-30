@@ -14,3 +14,5 @@ Instructor: [**Dr. Prerana Mukherjee**](https://jnu.ac.in/content/prerana)
 |**4**|[Sidharth Kumar](https://github.com/Sid_Arth)|19-11-EC-**044**|sidhar29_soe@jnu.ac.in|
 |**5**|[Kartik Ohri](https://github.com/amCap1712)|19-11-EC-**049**|kartik80_soe@jnu.ac.in|
 |**6**|[Shubham Singh](https://github.com/dravadhis) [`Team Representative`]|19-11-EC-**050**|shubha65_soe@jnu.ac.in|
+
+[codebase Archive](https://mega.nz/folder/PG4BnC7S#qF2JPBWvapSqMGl484JXvQ) - ~9GBs
