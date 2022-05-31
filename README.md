@@ -26,4 +26,4 @@ This repository contains the code implementation of "[Multiplayer FPS: 3D Game D
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 <hr>
-<p align="center"> ❰ ❱ by <b>Group No.: 3 &bullet; Carpe Diem</b></p>
+<p align="center"> ❰ ❱ by <b>Group 03 &bullet; Carpe Diem</b></p>
