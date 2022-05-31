@@ -1,18 +1,29 @@
-# EN455 - Computer Graphics
-### Project: "Multiplayer FPS Game using Unreal Engine 4"
----
+# Multiplyaer FPS: 3D Game Development using Unreal Engine
+This repository contains the code implementation of "[Multiplayer FPS: 3D Game Development using Unreal Engine](/Term_Paper.pdf)", **term paper** for **6th Semester EN455 Computer Graphics Course Project**.
 
-Instructor: [**Dr. Prerana Mukherjee**](https://jnu.ac.in/content/prerana)
+### 👩‍🏫 Course Instructor: [**Dr. Prerana Mukherjee**](https://jnu.ac.in/content/prerana)
+### 📈 [Project Proposal](/Proposal.pdf)
+### 📋 [Multiplyaer FPS: 3D Game Development using Unreal Engine](/Term_Paper.pdf) (Term Paper)
+### ❰❱ [Game Source Code](https://mega.nz/folder/PG4BnC7S#qF2JPBWvapSqMGl484JXvQ) - ~9GBs
+### [Project Presentation](/Presentation.pdf)
 
-> Group No.: **3** &bullet; **Carpe Diem**
+## How to launch the game?
+### HTML Package [To be installed on server]
+1. Download the `html-pkg.tar.xz` file.
+2. Unpack the archive once downloaded.
+3. Open the extracted folder and follow instructions given in `Readme.txt` to setup the game on the server.
 
-|#|Name|Enroll. No.|E-Mail|
-|:-:|:--|:-:|--:|
-|**1**|[Vishal Chaudhary](https://github.com/vishalghyv)|19-11-EC-**021**|vishal90_soe@jnu.ac.in|
-|**2**|[Tanuj Raghav](https://github.com/tanujraghav)|19-11-EC-**027**|tanuj81_soe@jnu.ac.in|
-|**3**|[Abhishek Jain](https://github.com/ajain1325)|19-11-EC-**036**|abhish34_soe@jnu.ac.in|
-|**4**|[Sidharth Kumar](https://github.com/Sid_Arth)|19-11-EC-**044**|sidhar29_soe@jnu.ac.in|
-|**5**|[Kartik Ohri](https://github.com/amCap1712)|19-11-EC-**049**|kartik80_soe@jnu.ac.in|
-|**6**|[Shubham Singh](https://github.com/dravadhis) [`Team Representative`]|19-11-EC-**050**|shubha65_soe@jnu.ac.in|
+### Linux Package [For linux based OS]
+1. Download the `linux-pkg.tar.xz` file. 
+2. Unpack the archive once downloaded.
+3. Navigate to `mFPS > Binaries > Linux`.
+4. Open the file named `mFPS-Linux-Shipping` to launch the game.
 
-[codebase Archive](https://mega.nz/folder/PG4BnC7S#qF2JPBWvapSqMGl484JXvQ) - ~9GBs
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+<hr>
+<p align="center"> ❰ ❱ by <b>Group No.: 3 &bullet; Carpe Diem</b></p>
