@@ -1,9 +1,9 @@
-# Multiplyaer FPS: 3D Game Development using Unreal Engine
+# Multiplayer FPS: 3D Game Development using Unreal Engine
 This repository contains the code implementation of "[Multiplayer FPS: 3D Game Development using Unreal Engine](/Term_Paper.pdf)", **term paper** for **6th Semester EN455 Computer Graphics Course Project**.
 
 ### 👩‍🏫 Course Instructor: [**Dr. Prerana Mukherjee**](https://jnu.ac.in/content/prerana)
 ### 📈 [Project Proposal](/Proposal.pdf)
-### 📋 [Multiplyaer FPS: 3D Game Development using Unreal Engine](/Term_Paper.pdf) (Term Paper)
+### 📋 [Multiplayer FPS: 3D Game Development using Unreal Engine](/Term_Paper.pdf) (Term Paper)
 ### ❰❱ [Game Source Code](https://mega.nz/folder/PG4BnC7S#qF2JPBWvapSqMGl484JXvQ) - ~9GBs
 ### [Project Presentation](/Presentation.pdf)
 
